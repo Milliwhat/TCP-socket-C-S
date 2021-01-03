@@ -1,0 +1,78 @@
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\bin\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\bin\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatClient2\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\bin\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\bin\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient2\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\XiaoChe\Desktop\计算机网络课程设计\Chat\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\6\Desktop\Chat--CS\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\星願\Desktop\Final\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\6\Desktop\Final(1)\Final\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\XiaoChe\Desktop\Final(1)\TCP-Socket Chat\ChatClient3\ChatClient3\ChatClient\obj\x86\Debug\ChatClient.pdb
